@@ -1,1 +1,1 @@
-# 2D-3D-Perlin-Noise-Generator
+# 1D-2D-Perlin-Noise-Generator
